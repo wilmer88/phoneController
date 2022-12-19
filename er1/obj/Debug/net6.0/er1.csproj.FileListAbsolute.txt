@@ -1,0 +1,15 @@
+C:\Users\wilme\source\repos\er1\er1\obj\Debug\net6.0\er1.csproj.AssemblyReference.cache
+C:\Users\wilme\source\repos\er1\er1\obj\Debug\net6.0\er1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilme\source\repos\er1\er1\obj\Debug\net6.0\er1.AssemblyInfoInputs.cache
+C:\Users\wilme\source\repos\er1\er1\obj\Debug\net6.0\er1.AssemblyInfo.cs
+C:\Users\wilme\source\repos\er1\er1\obj\Debug\net6.0\er1.csproj.CoreCompileInputs.cache
+C:\Users\wilme\source\repos\er1\er1\bin\Debug\net6.0\er1.exe
+C:\Users\wilme\source\repos\er1\er1\bin\Debug\net6.0\er1.deps.json
+C:\Users\wilme\source\repos\er1\er1\bin\Debug\net6.0\er1.runtimeconfig.json
+C:\Users\wilme\source\repos\er1\er1\bin\Debug\net6.0\er1.dll
+C:\Users\wilme\source\repos\er1\er1\bin\Debug\net6.0\er1.pdb
+C:\Users\wilme\source\repos\er1\er1\obj\Debug\net6.0\er1.dll
+C:\Users\wilme\source\repos\er1\er1\obj\Debug\net6.0\refint\er1.dll
+C:\Users\wilme\source\repos\er1\er1\obj\Debug\net6.0\er1.pdb
+C:\Users\wilme\source\repos\er1\er1\obj\Debug\net6.0\er1.genruntimeconfig.cache
+C:\Users\wilme\source\repos\er1\er1\obj\Debug\net6.0\ref\er1.dll
