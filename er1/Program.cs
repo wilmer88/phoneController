@@ -1,4 +1,7 @@
-﻿/*using System.Runtime.InteropServices;
+﻿using System.Runtime.InteropServices;
+
+
+
 //parameterless Main() methods
 
 
@@ -7,7 +10,7 @@ partial class Program
 {
 
 
-    private static void Main(string[] args)
+  static void Main(string[] args)
     {
         int months = 12, bounus = 5000;
         double ratePerHour = 12.34;
@@ -19,8 +22,7 @@ partial class Program
 
         ratePerHour += 2;
         Console.WriteLine(ratePerHour);
-
-
+     
 
         int hwnd = 0;
         IntPtr hwndChild = IntPtr.Zero;
@@ -29,16 +31,17 @@ partial class Program
         hwnd = (int)FindWindow(null, "Calculator");
         if (hwnd == 0)
         {
-      *//*      if (MessageBox.Show("Couldn't find the calculator" +
-                               " application. Do you want to start it?",
-                               "TestWinAPI",
-                               MessageBoxButtons.YesNo) == DialogResult.Yes)
-            {
-                System.Diagnostics.Process.Start("Calc");
-            }*//*
+
+
+            System.Diagnostics.Process.Start("Calc");
+
         }
 
         [DllImport("user32.dll", EntryPoint = "FindWindow")]
         static extern IntPtr FindWindow(string? lp1, string lp2);
+
+
+
+
     }
-}*/
+}
